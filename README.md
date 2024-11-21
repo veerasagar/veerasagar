@@ -2,4 +2,7 @@
 <p>
   <img height="300" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random GiF">
 </p>
+<strong><em>This site may or may not guide you to life, the universe and everything</em></strong>
+<br>
+<br>
 <img width="350px" src="https://count.getloli.com/get/@veerasagar">
