@@ -1,6 +1,6 @@
-<div align="center">
-
-  # ${\color{black}Hey, \space It's \space Sagar}$
+<div align="center" font="Helvetica">
+  
+  # <em>Hey, It's Sagar</em>
 </div>
 
 ### <div align="left"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=2300&pause=1000&color=000000&center=false&vCenter=true&random=false&width=1000&height=30&lines=This+site+may+or+may+not+guide+you+to+life,+the+universe+and+everything.) 
