@@ -8,18 +8,5 @@
 <img width="350px" src="https://count.getloli.com/get/@veerasagar">
 
 ## GitHub Stats:
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Image</th>
-  </tr>
-  <tr>
-    <td>Github Overview</td>
-    <td><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=veerasagar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"/></td>
-  </tr>
-  <tr>
-    <td>Language overview</td>
-    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerasagar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></td>
-  </tr>
-</table> 
-
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=veerasagar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerasagar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
